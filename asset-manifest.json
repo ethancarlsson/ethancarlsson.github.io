@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cf8ceee.chunk.css",
-    "main.js": "/static/js/main.b58bfc94.chunk.js",
-    "main.js.map": "/static/js/main.b58bfc94.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aa82fdcb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aa82fdcb.js.map",
-    "static/js/2.a4281905.chunk.js": "/static/js/2.a4281905.chunk.js",
-    "static/js/2.a4281905.chunk.js.map": "/static/js/2.a4281905.chunk.js.map",
-    "static/js/3.1c17fb2b.chunk.js": "/static/js/3.1c17fb2b.chunk.js",
-    "static/js/3.1c17fb2b.chunk.js.map": "/static/js/3.1c17fb2b.chunk.js.map",
+    "main.css": "/static/css/main.c0fd4fa0.chunk.css",
+    "main.js": "/static/js/main.c0acd6e7.chunk.js",
+    "main.js.map": "/static/js/main.c0acd6e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.15309642.js",
+    "runtime-main.js.map": "/static/js/runtime-main.15309642.js.map",
+    "static/js/2.9ba25a95.chunk.js": "/static/js/2.9ba25a95.chunk.js",
+    "static/js/2.9ba25a95.chunk.js.map": "/static/js/2.9ba25a95.chunk.js.map",
+    "static/js/3.455dcbcb.chunk.js": "/static/js/3.455dcbcb.chunk.js",
+    "static/js/3.455dcbcb.chunk.js.map": "/static/js/3.455dcbcb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1cf8ceee.chunk.css.map": "/static/css/main.1cf8ceee.chunk.css.map",
-    "static/js/2.a4281905.chunk.js.LICENSE.txt": "/static/js/2.a4281905.chunk.js.LICENSE.txt",
-    "static/media/classroomApp.1792c3e7.jpg": "/static/media/classroomApp.1792c3e7.jpg",
+    "static/css/main.c0fd4fa0.chunk.css.map": "/static/css/main.c0fd4fa0.chunk.css.map",
+    "static/js/2.9ba25a95.chunk.js.LICENSE.txt": "/static/js/2.9ba25a95.chunk.js.LICENSE.txt",
     "static/media/snakeElephant.18cfb39d.jpg": "/static/media/snakeElephant.18cfb39d.jpg",
+    "static/media/starWars.60c72efe.jpg": "/static/media/starWars.60c72efe.jpg",
     "static/media/treeDisputeHelper.2c73d57a.jpg": "/static/media/treeDisputeHelper.2c73d57a.jpg",
-    "static/media/worksheet.77995a3c.jpg": "/static/media/worksheet.77995a3c.jpg"
+    "static/media/worksheet.0836f06f.jpg": "/static/media/worksheet.0836f06f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa82fdcb.js",
-    "static/js/2.a4281905.chunk.js",
-    "static/css/main.1cf8ceee.chunk.css",
-    "static/js/main.b58bfc94.chunk.js"
+    "static/js/runtime-main.15309642.js",
+    "static/js/2.9ba25a95.chunk.js",
+    "static/css/main.c0fd4fa0.chunk.css",
+    "static/js/main.c0acd6e7.chunk.js"
   ]
 }
