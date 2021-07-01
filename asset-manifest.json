@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.c81ef46c.chunk.css",
-    "main.js": "/static/js/main.2aa0969e.chunk.js",
-    "main.js.map": "/static/js/main.2aa0969e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.15309642.js",
-    "runtime-main.js.map": "/static/js/runtime-main.15309642.js.map",
-    "static/js/2.9ba25a95.chunk.js": "/static/js/2.9ba25a95.chunk.js",
-    "static/js/2.9ba25a95.chunk.js.map": "/static/js/2.9ba25a95.chunk.js.map",
-    "static/js/3.455dcbcb.chunk.js": "/static/js/3.455dcbcb.chunk.js",
-    "static/js/3.455dcbcb.chunk.js.map": "/static/js/3.455dcbcb.chunk.js.map",
+    "main.css": "/static/css/main.213ea4fe.chunk.css",
+    "main.js": "/static/js/main.d2cc4e9e.chunk.js",
+    "main.js.map": "/static/js/main.d2cc4e9e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9772cdc3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9772cdc3.js.map",
+    "static/js/2.feacf27f.chunk.js": "/static/js/2.feacf27f.chunk.js",
+    "static/js/2.feacf27f.chunk.js.map": "/static/js/2.feacf27f.chunk.js.map",
+    "static/js/3.b94d60b7.chunk.js": "/static/js/3.b94d60b7.chunk.js",
+    "static/js/3.b94d60b7.chunk.js.map": "/static/js/3.b94d60b7.chunk.js.map",
+    "static/js/4.299195c2.chunk.js": "/static/js/4.299195c2.chunk.js",
+    "static/js/4.299195c2.chunk.js.map": "/static/js/4.299195c2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c81ef46c.chunk.css.map": "/static/css/main.c81ef46c.chunk.css.map",
-    "static/js/2.9ba25a95.chunk.js.LICENSE.txt": "/static/js/2.9ba25a95.chunk.js.LICENSE.txt",
-    "static/media/caseLawDB.b975e3c8.jpg": "/static/media/caseLawDB.b975e3c8.jpg",
-    "static/media/snakeElephant.d717b05b.jpg": "/static/media/snakeElephant.d717b05b.jpg",
-    "static/media/starWars.4c08e845.jpg": "/static/media/starWars.4c08e845.jpg",
-    "static/media/treeDisputeHelper.a26bf826.jpg": "/static/media/treeDisputeHelper.a26bf826.jpg",
-    "static/media/worksheet.fb1df064.jpg": "/static/media/worksheet.fb1df064.jpg"
+    "static/css/main.213ea4fe.chunk.css.map": "/static/css/main.213ea4fe.chunk.css.map",
+    "static/js/2.feacf27f.chunk.js.LICENSE.txt": "/static/js/2.feacf27f.chunk.js.LICENSE.txt",
+    "static/media/psycopg-2.898d6ea9.png": "/static/media/psycopg-2.898d6ea9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15309642.js",
-    "static/js/2.9ba25a95.chunk.js",
-    "static/css/main.c81ef46c.chunk.css",
-    "static/js/main.2aa0969e.chunk.js"
+    "static/js/runtime-main.9772cdc3.js",
+    "static/js/2.feacf27f.chunk.js",
+    "static/css/main.213ea4fe.chunk.css",
+    "static/js/main.d2cc4e9e.chunk.js"
   ]
 }
